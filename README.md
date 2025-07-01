@@ -29,5 +29,5 @@ PROJECTS:
 CONTACT ME:
 
 LinkedIn
-Email: Karissa.leslie8@gmail.com
+Email: 
 
