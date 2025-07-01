@@ -28,6 +28,7 @@ PROJECTS:
 
 CONTACT ME:
 
-LinkedIn
+LinkedIn:
+
 Email: 
 
