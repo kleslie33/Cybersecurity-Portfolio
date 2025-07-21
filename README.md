@@ -81,11 +81,10 @@ These platform helps bridge the gap between no professional experience and real-
 ### 🎯 TryHackMe Progress
 - Focused on blue team labs: *SOC Level 1 Path, CompTIA Security+ Path*
 - Practicing log analysis, malware identification, and incident response
-- 
 
 ## 📜 Certifications & Training
 
-- 🎓 **CompTIA Security+ (In Progress, 2025)**
+- 🎓 **CompTIA Security+ (April 2025)**
 - 🧠 **Hack The Box Academy** – Ongoing Learning
 - 🔒 **TryHackMe Blue Team Labs** – SOC Level 1 Track
 
