@@ -7,9 +7,8 @@
 
 My portfolio showcases a range of projects and practical exercises that demonstrate my skills and knowledge in cybersecurity and IT. You’ll find hands-on labs and challenges completed on platforms like Hack The Box and TryHackMe, illustrating my abilities in threat detection, penetration testing, and system security. Additionally, the portfolio includes examples of my work with network defense, vulnerability assessments, and incident response simulations. It reflects my ongoing commitment to learning and applying cybersecurity best practices to real-world scenarios.
 
-
-**Hack The Box and TryHackMe are popular online platforms designed to help people learn and practice cybersecurity skills through hands-on challenges and labs.
-
+Hack The Box and TryHackMe are popular online platforms designed to help people learn and practice cybersecurity skills through hands-on challenges and labs.
+---
 **Hack The Box (HTB):**
 HTB offers a wide range of real-world simulated environments where users can practice penetration testing, vulnerability analysis, and ethical hacking. It’s known for its “hackable” machines and challenges that range from beginner to advanced levels, making it a favorite among cybersecurity professionals and learners looking to sharpen their offensive security skills.
 
