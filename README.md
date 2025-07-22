@@ -56,6 +56,8 @@ These platform helps bridge the gap between no professional experience and real-
 
 🧪 **Ongoing Learning & Labs/Projects**
 
+🔧 These virtual machines allow me to safely build, break, and restore systems—mirroring real-world environments used in IT support and cybersecurity operations.
+
 | **Category**       | **Module Title**                        | **Completion %** | **Focus Area**         |
 | ------------------ | --------------------------------------- | ---------------- | ---------------------- |
 | Fundamentals       | Introduction to Information Security    | 100%             | General (InfoSec)      |
@@ -86,28 +88,30 @@ These platform helps bridge the gap between no professional experience and real-
 I’ve built and managed multiple virtual machines (VMs) as part of my personal lab environment to simulate realistic IT and cybersecurity tasks.
 
 💡**Linux VM Experience:**
-Installed and configured Kali Linux and Ubuntu
 
-Managed services, permissions, file systems, and network tools
+-Installed and configured Kali Linux and Ubuntu
 
-Performed Linux privilege escalation labs and system hardening exercises
+-Managed services, permissions, file systems, and network tools
+
+-Performed Linux privilege escalation labs and system hardening exercises
 
 
 🪟**Windows VM Experience:**
-Set up Windows 10/11 and Windows Server VMs for Active Directory and endpoint security testing
+-Set up Windows 10/11 and Windows Server VMs for Active Directory and endpoint security testing
 
-Practiced user account control, Event Viewer analysis, Group Policy, and administrative scripting
+-Practiced user account control, Event Viewer analysis, Group Policy, and administrative scripting
 
-Conducted lab-based Windows privilege escalation and log analysis exercises
+-Conducted lab-based Windows privilege escalation and log analysis exercises
 
 ⚙️ **Virtualization Tools:**
-Proficient in using VirtualBox and VMware Workstation
 
-Created multi-VM environments for attack/defense scenarios
+-Proficient in using VirtualBox and VMware Workstation
 
-Utilized snapshots, network segmentation, and resource tuning for lab simulations
+-Created multi-VM environments for attack/defense scenarios
 
-🔧 These virtual machines allow me to safely build, break, and restore systems—mirroring real-world environments used in IT support and cybersecurity operations.
+-Utilized snapshots, network segmentation, and resource tuning for lab simulations
+
+
 
 ### 🎯 TryHackMe Progress
 - Focused on blue team labs: *SOC Level 1 Path, CompTIA Security+ Path*
