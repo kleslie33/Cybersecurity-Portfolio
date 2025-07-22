@@ -1,6 +1,6 @@
 # Karissa Leslie | Cybersecurity-Portfolio
 ---
-👋 Hi, I’m Karissa Leslie. I’m building a career in cybersecurity and IT with a focus on threat detection and system security. I hold a Security+ certification and am actively developing hands-on skills through Hack The Box and TryHackMe. I’m committed to continuous learning and applying what I learn to help protect digital systems.I have a Bachelor’s and an Associate’s degree in Cybersecurity, providing solid knowledge in security principles, network defense, and incident response.
+👋 **Hi, I’m Karissa Leslie**. I’m building a career in cybersecurity and IT with a focus on threat detection and system security. I hold a Security+ certification and am actively developing hands-on skills through Hack The Box and TryHackMe. I’m committed to continuous learning and applying what I learn to help protect digital systems.I have a Bachelor’s and an Associate’s degree in Cybersecurity, providing solid knowledge in security principles, network defense, and incident response.
 
 ---
 
