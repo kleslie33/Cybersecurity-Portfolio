@@ -78,6 +78,33 @@ These platform helps bridge the gap between no professional experience and real-
 | Defensive Security | JavaScript Deobfuscation                | 27.27%           | Web Defense            |
 | Purple Team        | Windows Attacks & Defense               | 12.5%            | AD Defense             |
 
+
+🖥️ Windows & Linux Virtual Machine Skills
+I’ve built and managed multiple virtual machines (VMs) as part of my personal lab environment to simulate realistic IT and cybersecurity tasks.
+
+💡 Linux VM Experience:
+Installed and configured Kali Linux and Ubuntu
+
+Managed services, permissions, file systems, and network tools
+
+Performed Linux privilege escalation labs and system hardening exercises
+
+🪟 Windows VM Experience:
+Set up Windows 10/11 and Windows Server VMs for Active Directory and endpoint security testing
+
+Practiced user account control, Event Viewer analysis, Group Policy, and administrative scripting
+
+Conducted lab-based Windows privilege escalation and log analysis exercises
+
+⚙️ Virtualization Tools:
+Proficient in using VirtualBox and VMware Workstation
+
+Created multi-VM environments for attack/defense scenarios
+
+Utilized snapshots, network segmentation, and resource tuning for lab simulations
+
+🔧 These virtual machines allow me to safely build, break, and restore systems—mirroring real-world environments used in IT support and cybersecurity operations.
+
 ### 🎯 TryHackMe Progress
 - Focused on blue team labs: *SOC Level 1 Path, CompTIA Security+ Path*
 - Practicing log analysis, malware identification, and incident response
