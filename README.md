@@ -47,7 +47,7 @@ These platform helps bridge the gap between no professional experience and real-
 | **Cybersecurity**     | MITRE ATT\&CK, NIST Framework, Vulnerability Scanning, SIEM (Splunk, Splunk Enterprise, Suricata), Threat Hunting |
 | **Platforms & Labs**  | Hack The Box Academy, TryHackMe, Blue Team Labs Online                                                            |
 | **Operating Systems** | Windows Server (2012, 2016, 2019), Windows 10, Windows 11, Linux (Ubuntu, Kali)                                   |
-| **Networking**        | TCP/IP, DNS, DHCP, VPNs, SSH, RDP, POP3, IMAP, Wireshark                                                          |
+| **Networking**        | TCP/IP, DNS, DHCP, VPNs, SSH, RDP, POP3, IMAP, Wireshark,Tcpdump, RDP                                                          |
 | **Cloud Platforms**   | Microsoft Azure                                                                                                   |
 | **Virtualization**    | VMware, VirtualBox                                                                                                |
 | **Scripting & Tools** | Bash, PowerShell, Nmap, Burp Suite, Nessus, OSINT Tools                                                           |
