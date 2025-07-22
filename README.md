@@ -81,10 +81,11 @@ These platform helps bridge the gap between no professional experience and real-
 | Purple Team        | Windows Attacks & Defense               | 12.5%            | AD Defense             |
 
 ---
-🖥️ Windows & Linux Virtual Machine Skills
+🖥️ **Windows & Linux Virtual Machine Skills**
+
 I’ve built and managed multiple virtual machines (VMs) as part of my personal lab environment to simulate realistic IT and cybersecurity tasks.
 
-💡 Linux VM Experience:
+💡**Linux VM Experience:**
 Installed and configured Kali Linux and Ubuntu
 
 Managed services, permissions, file systems, and network tools
@@ -92,14 +93,14 @@ Managed services, permissions, file systems, and network tools
 Performed Linux privilege escalation labs and system hardening exercises
 
 
-🪟 Windows VM Experience:
+🪟**Windows VM Experience:**
 Set up Windows 10/11 and Windows Server VMs for Active Directory and endpoint security testing
 
 Practiced user account control, Event Viewer analysis, Group Policy, and administrative scripting
 
 Conducted lab-based Windows privilege escalation and log analysis exercises
 
-⚙️ Virtualization Tools:
+⚙️ **Virtualization Tools:**
 Proficient in using VirtualBox and VMware Workstation
 
 Created multi-VM environments for attack/defense scenarios
