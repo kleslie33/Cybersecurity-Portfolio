@@ -50,7 +50,7 @@ These platform helps bridge the gap between no professional experience and real-
 | **Networking**        | TCP/IP, DNS, DHCP, VPNs, SSH, RDP, POP3, IMAP, Wireshark,Tcpdump, File sharing                                    |
 | **Cloud Platforms**   | Microsoft Azure                                                                                                   |
 | **Virtualization**    | VMware, VirtualBox                                                                                                |
-| **Scripting & Tools** | Bash, PowerShell, Nmap, Burp Suite, Nessus, OSINT Tools, Metasploit, BloodHound                                   |
+| **Scripting & Tools** | Bash, PowerShell, ,Python, Nmap, Burp Suite, Nessus, OSINT Tools, Metasploit, BloodHound                                   |
 
 ---
 
