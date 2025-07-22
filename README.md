@@ -41,13 +41,15 @@ These platform helps bridge the gap between no professional experience and real-
 
 **Skills and Knowledge**
 
-| **Category**          | **Technologies & Tools**                                                             |
-| --------------------- | ------------------------------------------------------------------------------------ |
-| **Cybersecurity**     | MITRE ATT\&CK, NIST, Vulnerability Scanning, SIEM (Splunk, Suricata), Threat Hunting |
-| **Platforms & Labs**  | Hack The Box Academy, TryHackMe, Blue Team Labs Online                               |
-| **Operating Systems** | Windows Server, Windows 10/11, Linux (Ubuntu, Kali)                                  |
-| **Networking**        | TCP/IP, DNS, DHCP, VPNs, Wireshark                                                   |
-| **Scripting & Tools** | Bash, PowerShell, Nmap, Burp Suite, Nessus, OSINT tools                              |
+| **Category**          | **Technologies & Tools**                                                                                          |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Cybersecurity**     | MITRE ATT\&CK, NIST Framework, Vulnerability Scanning, SIEM (Splunk, Splunk Enterprise, Suricata), Threat Hunting |
+| **Platforms & Labs**  | Hack The Box Academy, TryHackMe, Blue Team Labs Online                                                            |
+| **Operating Systems** | Windows Server (2012, 2016, 2019), Windows 10, Windows 11, Linux (Ubuntu, Kali)                                   |
+| **Networking**        | TCP/IP, DNS, DHCP, VPNs, SSH, RDP, POP3, IMAP, Wireshark                                                          |
+| **Cloud Platforms**   | Microsoft Azure                                                                                                   |
+| **Virtualization**    | VMware, VirtualBox                                                                                                |
+| **Scripting & Tools** | Bash, PowerShell, Nmap, Burp Suite, Nessus, OSINT Tools                                                           |
 
 ---
 
