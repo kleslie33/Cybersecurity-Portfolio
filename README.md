@@ -81,7 +81,7 @@ These platform helps bridge the gap between no professional experience and real-
 | Defensive Security | JavaScript Deobfuscation                | 27.27%           | Web Defense            |
 | Purple Team        | Windows Attacks & Defense               | 12.5%            | AD Defense             |
 
-
+---
 🖥️ Windows & Linux Virtual Machine Skills
 I’ve built and managed multiple virtual machines (VMs) as part of my personal lab environment to simulate realistic IT and cybersecurity tasks.
 
@@ -91,6 +91,7 @@ Installed and configured Kali Linux and Ubuntu
 Managed services, permissions, file systems, and network tools
 
 Performed Linux privilege escalation labs and system hardening exercises
+
 
 🪟 Windows VM Experience:
 Set up Windows 10/11 and Windows Server VMs for Active Directory and endpoint security testing
